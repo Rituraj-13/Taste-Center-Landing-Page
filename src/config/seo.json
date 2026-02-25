@@ -1,0 +1,28 @@
+{
+    "siteName": "IndiFlavors",
+    "defaultTitle": "IndiFlavors - Authentic Indian Cuisine",
+    "defaultDescription": "Experience the true taste of India at IndiFlavors. Serving authentic North and South Indian dishes in a premium ambiance.",
+    "pages": {
+        "home": {
+            "title": "Home | IndiFlavors",
+            "description": "Welcome to IndiFlavors, the best Indian restaurant in town."
+        },
+        "menu": {
+            "title": "Our Menu | IndiFlavors",
+            "description": "Explore our exquisite menu featuring Butter Chicken, Biryani, and more."
+        },
+        "about": {
+            "title": "About Us | IndiFlavors",
+            "description": "Learn about our journey, our chef, and our philosophy."
+        },
+        "contact": {
+            "title": "Contact Us | IndiFlavors",
+            "description": "Book a table or get in touch with us."
+        }
+    },
+    "social": {
+        "facebook": "https://facebook.com",
+        "instagram": "https://instagram.com",
+        "twitter": "https://twitter.com"
+    }
+}

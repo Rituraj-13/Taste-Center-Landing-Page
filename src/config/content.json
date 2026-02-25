@@ -1,0 +1,35 @@
+{
+    "restaurantName": "Taste Centre",
+    "tagline": "A Symphony of Spices",
+    "address": "123 Spice Avenue, Flavor Town, FT 56789",
+    "phone": "+91 98765 43210",
+    "email": "reservations@indiflavors.com",
+    "hero": {
+        "headline": "Experience the Essence of India",
+        "subheadline": "Authentic flavors, modern presentation, unforgettable memories.",
+        "ctaPrimary": "View Menu",
+        "ctaSecondary": "Book a Table"
+    },
+    "about": {
+        "story": "IndiFlavors was born from a passion for authentic Indian cuisine. We believe in using traditional recipes passed down through generations, combined with modern techniques to create a unique dining experience.",
+        "chef": "Chef Raj, with over 20 years of experience in 5-star kitchens, brings his expertise and love for food to every plate.",
+        "philosophy": "Fresh ingredients, authentic spices, and love are the three pillars of our cooking."
+    },
+    "testimonials": [
+        {
+            "name": "Priya Sharma",
+            "text": "The best Butter Chicken I've ever had! The ambiance is stunning.",
+            "rating": 5
+        },
+        {
+            "name": "John Doe",
+            "text": "Authentic flavors and great service. Highly recommended.",
+            "rating": 5
+        },
+        {
+            "name": "Amit Patel",
+            "text": "A true culinary journey through India.",
+            "rating": 4
+        }
+    ]
+}
